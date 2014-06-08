@@ -1,3 +1,3 @@
 #! /bin/bash
 
-python server.py 106.187.49.166:7000
+python server.py 127.0.0.1:7000
